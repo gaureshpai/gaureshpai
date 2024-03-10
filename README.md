@@ -1,7 +1,7 @@
 <!-- Header -->
 # Hi there! 👋 I'm Gauresh
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/gaureshpai)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaureshpai)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hseruag)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square)](https://gauresh.vercel.app)
 
@@ -61,7 +61,7 @@ Dive into the world of inspiration with Promptopia!
 
 📧 [Email](mailto:paigauresh@gmail.com)  
 🌐 [Portfolio](https://gauresh.vercel.app)  
-🔗 [LinkedIn](www.linkedin.com/in/gaureshpai)  
+🔗 [LinkedIn](https://linkedin.com/in/gaureshpai)  
 🐦 [Twitter](https://twitter.com/hseruag)
 
 Feel free to reach out to me for collaboration, queries, or just to say hi!
