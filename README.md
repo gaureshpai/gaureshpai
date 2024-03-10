@@ -46,7 +46,7 @@ Dive into the world of inspiration with Promptopia!
 
 ### Commit Graph
 
-![Your Commit Graph](https://github.com/users/gaureshpai/contributions)
+[![Your Commit Activity](https://img.shields.io/github/commit-activity/m/gaureshpai/gaureshpai?label=Commit%20Activity&style=flat-square)](https://github.com/gaureshpai)
 
 ### Profile Views
 
