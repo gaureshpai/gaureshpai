@@ -1,11 +1,28 @@
-<!-- Header -->
-# Hi there! 👋 I'm Gauresh
+<!-- Animated Header -->
+<h1 id="animated-header" style="text-align: center;"></h1>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaureshpai)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hseruag)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square)](https://gauresh.vercel.app)
 
 I'm a passionate learner. Welcome to my GitHub profile, where I showcase my projects and contributions.
+
+<!-- JavaScript for Animation -->
+<script>
+    const header = document.getElementById('animated-header');
+    const text = "Hi there! 👋 I'm Gauresh";
+    let index = 0;
+
+    function animateHeader() {
+        if (index < text.length) {
+            header.innerHTML += text.charAt(index);
+            index++;
+            setTimeout(animateHeader, 100); // Adjust speed here (milliseconds)
+        }
+    }
+
+    animateHeader();
+</script>
 
 <!-- About Me -->
 ## About Me
