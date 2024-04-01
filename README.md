@@ -53,7 +53,7 @@ Java Swing Registration & Quiz App: An intuitive Java Swing application for user
 
 ### Commit Graph
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gaureshpai)](https://github.com/gaureshpai)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gaureshpai)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Profile Views
 
