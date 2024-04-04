@@ -10,7 +10,7 @@ I'm a passionate learner. Welcome to my GitHub profile, where I showcase my proj
 <!-- About Me -->
 ## About Me
 
-I'm Gauresh, a learner from Mangalore. I love coding, exploring new technologies, and building cool projects.
+I'm Gauresh G Pai, a learner from Mangalore. I love coding, exploring new technologies, and building cool projects.
 
 <!-- Technologies -->
 ## Technologies & Tools
