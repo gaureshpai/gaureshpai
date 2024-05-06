@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi there! 👋 I'm Gauresh
+# Hi there! 👋 I'm Gauresh 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaureshpai)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hseruag)
@@ -72,4 +72,4 @@ Feel free to reach out to me for collaboration, queries, or just to say hi!
 <!-- Footer -->
 ## Thank You for Visiting!
 
-Thank you for exploring my GitHub profile. Don't forget to star ⭐️ your favorite repositories!
+Thank you for exploring my GitHub profile. Don't forget to star ⭐️ your favorite repositories! 
