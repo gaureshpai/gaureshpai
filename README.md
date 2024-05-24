@@ -48,9 +48,6 @@ Dive into the world of inspiration with Promptopia!🌟
 ### [Interpretations-Management-App](https://github.com/gaureshpai/Interpretations-Management-App)
 Interpretations Manager: Effortlessly manage interpretations with this Next.js app backed by AppWriter. View, edit, and delete interpretations with ease. Simplify your interpretation management tasks today! 🌟
 
-### [Java-Swing-Login-Quiz-App](https://github.com/gaureshpai/Java-Swing-Login-Quiz-App)
-This is a simple Java Swing-based login application designed for user authentication. The application provides a user interface for entering a username and password, with an option to show/hide the password. Additionally, it includes a "Forgot Password?" feature allowing users to recover their passwords through a security question.🌟
-
 ### [Java-Swing-Registration-Quiz-App](https://github.com/gaureshpai/Java-Swing-Registration-Quiz-App)
 Java Swing Registration & Quiz App: An intuitive Java Swing application for user registration, login, and a fun quiz experience. Seamlessly register, login securely, and test your knowledge with an interactive quiz. Save user credentials and quiz results for easy access.🌟
 
