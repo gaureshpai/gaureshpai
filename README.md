@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi there! 👋 I'm Gauresh 
+# Hi there! 👋 I'm Gauresh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaureshpai)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hseruag)
@@ -65,10 +65,7 @@ Java Swing Registration & Quiz App: An intuitive Java Swing application for user
 <!-- Contact Me -->
 ## Let's Connect
 
-📧 [Email](mailto:paigauresh@gmail.com)  
-🌐 [Portfolio](https://gauresh.vercel.app)  
-🔗 [LinkedIn](https://linkedin.com/in/gaureshpai)  
-🐦 [Twitter](https://twitter.com/hseruag)
+📧 [Email](mailto:paigauresh@gmail.com) 🌐 [Portfolio](https://gauresh.vercel.app)  🔗 [LinkedIn](https://linkedin.com/in/gaureshpai)  🐦 [Twitter](https://twitter.com/hseruag)
 
 Feel free to reach out to me for collaboration, queries, or just to say hi!
 
