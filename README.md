@@ -20,7 +20,8 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaureshpai&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaureshpai&theme=default" alt="Top Languages by repo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaureshpai&theme=default" alt="Top Languages by commit">
 </div>
 
 ###
