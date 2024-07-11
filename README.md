@@ -60,12 +60,16 @@ I'm Gauresh G Pai, a learner from Mangalore. I love coding, exploring new techno
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaureshpai&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaureshpai&theme=default" alt="Top Languages by repo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaureshpai&theme=default" alt="Top Languages by commit">
 </div>
 
 ###
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gaureshpai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <!-- Contact Me -->
 ## Let's Connect
