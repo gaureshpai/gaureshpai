@@ -39,7 +39,7 @@ I'm Gauresh G Pai, a learner from Mangalore. I love coding, exploring new techno
 | Project | Description |
 | --- | --- |
 | [Quizopia](https://github.com/gaureshpai/ggquizopia) | A fun Marvel-themed quiz app testing your knowledge about Marvel characters. Built with Next.js, HTML, CSS, and JavaScript. 🌟 |
-| [GGReplicater](https://github.com/gaureshpai/ggreplicater) | Web app using Replicate AI to generate images based on user prompts. Built with Next.js, Tailwind CSS, and Replicate AI. 🌟 |
+| [Hearease](https://github.com/gaureshpai/Hearease) | Therapy web application for Tinnitus – designed to provide specialized support and management tools for individuals experiencing Tinnitus symptoms.🌟 |
 | [Ideaspark](https://github.com/gaureshpai/IdeaSpark) | Open-source AI prompting tool designed to ignite creativity. Built with Next.js. 🌟 |
 | [Interpretations-Management-App](https://github.com/gaureshpai/Interpretations-Management-App) | Manage interpretations with ease using this Next.js app backed by AppWriter. 🌟 |
 | [Java-Swing-Registration-Quiz-App](https://github.com/gaureshpai/Java-Swing-Registration-Quiz-App) | Java Swing application for user registration, login, and an interactive quiz experience. 🌟 |
