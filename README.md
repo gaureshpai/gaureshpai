@@ -57,7 +57,7 @@ I'm a passionate learner with a strong background in web development, design, an
 
 <div align="center">
   
-![Longest Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaureshpai)
+![Longest Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaureshpai&theme=dark)
 
 </div>
 
@@ -68,8 +68,8 @@ I'm a passionate learner with a strong background in web development, design, an
 </div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaureshpai&theme=default" alt="Top Languages by repo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaureshpai&theme=default" alt="Top Languages by commit">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaureshpai&theme=dark" alt="Top Languages by repo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaureshpai&theme=dark" alt="Top Languages by commit">
 </div>
 
 ###
