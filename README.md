@@ -8,8 +8,6 @@
 
 I'm a passionate learner with a strong background in web development, design, and project management. Welcome to my GitHub profile, where I showcase my projects and contributions across various technologies.
 
-[![An image of @gaureshpai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaureshpai)](https://holopin.io/@gaureshpai)
-
 <!-- Technologies -->
 ## Technologies & Tools
 
