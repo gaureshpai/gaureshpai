@@ -26,7 +26,6 @@ I'm a passionate learner with a strong background in web development, design, an
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop">
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro">
@@ -42,7 +41,6 @@ I'm a passionate learner with a strong background in web development, design, an
   <img src="https://img.shields.io/badge/Gemini AI-0033FF?style=for-the-badge&logo=gemini&logoColor=white" alt="Gemini AI">
   <img src="https://img.shields.io/badge/Claude AI-FFD700?style=for-the-badge&logo=claude&logoColor=black" alt="Claude AI">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/InVideo AI-2D9CDB?style=for-the-badge&logo=invideo&logoColor=white" alt="InVideo AI">
   <img src="https://img.shields.io/badge/Marketing-FF7F50?style=for-the-badge" alt="Marketing">
   <img src="https://img.shields.io/badge/Content Writing-FF6F61?style=for-the-badge" alt="Content Writing">
   <img src="https://img.shields.io/badge/Public Speaking-FFAA1D?style=for-the-badge" alt="Public Speaking">
