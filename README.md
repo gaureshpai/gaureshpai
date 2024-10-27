@@ -57,7 +57,7 @@ I'm a passionate learner with a strong background in web development, design, an
 
 <div align="center">
   
-![Longest Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaureshpai)
+![Longest Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaureshpai&theme=dark)
 
 </div>
 
