@@ -6,6 +6,11 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hseruag)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square)](https://gauresh.vercel.app)
 
+<div align="center">
+  
+[![An image of @gaureshpai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaureshpai)](https://holopin.io/@gaureshpai)
+
+</div>
 
 <div align="center">
   
