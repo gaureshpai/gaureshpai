@@ -1,31 +1,11 @@
-<!-- Header -->
 # Hi there! 👋 I'm Gauresh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaureshpai)
 
-I’m Gauresh, an engineering student passionate about technology and building innovative digital solutions. With experience in frameworks like Next.js, React, and Tailwind CSS, I enjoy creating user-centric applications and solving real-world problems through code.
+I'm Gauresh G Pai, a passionate full-stack developer, project manager, and community contributor currently pursuing my Bachelor's in Computer Science Engineering at AJIET, Mangaluru.
 
-Welcome to my GitHub! Here, you’ll find my projects, collaborations, and contributions that showcase my growth in the tech world. Thanks for visiting!
+As a Project Manager at Kree Karvat Technology and a UiPath Student Champion, I lead teams to build impactful digital solutions. I'm also an active core member of DevNation and GDSC AJIET, working to strengthen the tech community through workshops, mentoring, and collaborative projects.
 
----
+I enjoy solving real-world problems using technologies like Next.js, React, Tailwind CSS, Node.js, and automation tools, combining my technical expertise with leadership to deliver high-quality user-centric applications.
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; justify-items: center; align-items: center;">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaureshpai&theme=dark" alt="Longest Commit Streak" width="400"/>
-
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaureshpai&theme=radical" alt="Summary Cards" width="400"/>
-  </a>
-
-</div>
-
----
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gaureshpai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+Welcome to my GitHub! Here, you’ll find my projects, open-source contributions, and collaborations that reflect my growth and dedication in the tech world.
