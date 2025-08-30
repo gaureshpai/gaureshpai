@@ -2,19 +2,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaureshpai)
 
-I'm **Gauresh G Pai**, a passionate **Full-Stack Developer**, former **Project Manager**, and active **Community Contributor**, currently pursuing a Bachelor's in Computer Science Engineering at **AJIET, Mangaluru**.
+I'm a Full Stack Developer skilled in JavaScript frameworks for building scalable web apps, automation tools, and event platforms. Proficient in the MERN stack and the Next.js ecosystem, I have a proven track record of delivering impactful solutions in dynamic teams. My project experience includes a CPRM prototype, a CLI tool, and a faculty appraisal system.
 
-💼 Previously, I led development projects as a **Project Manager at Kree Karvat Technology**, where I guided cross-functional teams to build impactful digital products.
+I'm passionate about applying my problem-solving skills, technical expertise, and agile experience to create meaningful digital experiences. As a former Project Manager at Kreekarvat Technologies, I have experience in leading teams and delivering projects on schedule.
 
-🤖 As a **UiPath Student Champion**, and a core member of **DevNation** and **GDSC AJIET**, I actively organize workshops, mentor peers, and contribute to tech community growth.
+Currently, I'm a Student Developer Champion at UiPath, where I promote automation and engagement initiatives within the academic community. I am also a Core Team Member at DevNation, where I contribute to community web development projects and organize workshops.
 
-💻 My stack includes:
-- `Next.js`, `React`, `Tailwind CSS`, `Node.js`, `TypeScript`, `Prisma ORM`, `Postgre SQL`
-- Automation tools like `UiPath`, `Puppeteer` and `whatsapp-web.js`
-
-🌟 I’m driven by real-world problem solving, and I focus on building **scalable**, **user-centric** applications with clean architecture and thoughtful design.
-
-📂 **Explore my projects** below to see how I combine engineering with leadership to create meaningful solutions.
+I'm always eager to learn and grow, and I thrive in collaborative environments. If you're interested in collaborating on impactful tech initiatives or learning more about my work, feel free to connect or explore my now give git commit [projects](https://github.com/gaureshpai?tab=repositories).
 
 ---
 
