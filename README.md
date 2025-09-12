@@ -2,6 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaureshpai)
 [![npm](https://img.shields.io/badge/NPM-gaureshpai-red?logo=npm)](https://www.npmjs.com/~gaureshpai)
+[![patreon](https://img.shields.io/badge/Patreon-gaureshpai-green?logo=patreon)](https://patreon.com/gaureshpai)
 [![leetcode](https://img.shields.io/badge/LeetCode-gaureshpai-yellow?logo=leetcode)](https://leetcode.com/u/gaureshpai)
 
 I'm a Full Stack Developer skilled in JavaScript frameworks for building scalable web apps, automation tools, and event platforms. Proficient in the MERN stack and the Next.js ecosystem, I have a proven track record of delivering impactful solutions in dynamic teams. My project experience includes a CPRM prototype, a CLI tool, and a faculty appraisal system.
