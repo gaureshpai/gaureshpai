@@ -5,13 +5,13 @@
 [![patreon](https://img.shields.io/badge/Patreon-gaureshpai-green?logo=patreon)](https://patreon.com/gaureshpai)
 [![leetcode](https://img.shields.io/badge/LeetCode-gaureshpai-yellow?logo=leetcode)](https://leetcode.com/u/gaureshpai)
 
-I'm a Full Stack Developer skilled in JavaScript frameworks for building scalable web apps, automation tools, and event platforms. Proficient in the MERN stack and the Next.js ecosystem, I have a proven track record of delivering impactful solutions in dynamic teams. My project experience includes a CPRM prototype, a CLI tool, and a faculty appraisal system.
+I am a 2026 Computer Science Engineering graduate passionate about developing web-based solutions. My primary tech stack includes JavaScript, TypeScript, React, Next.js, Tailwind CSS, and more. 
 
-I'm passionate about applying my problem-solving skills, technical expertise, and agile experience to create meaningful digital experiences. As a former Project Manager at Kreekarvat Technologies, I have experience in leading teams and delivering projects on schedule.
+I am also a UiPath Student Developer Champion for 2025-26 and a core community member at DevNation AJIET & [DK24](https://dk24.org), working to connect college tech communities and foster innovation.
 
-Currently, I'm a Student Developer Champion at UiPath, where I promote automation and engagement initiatives within the academic community. I am also a Core Team Member at DevNation, where I contribute to community web development projects and organize workshops.
+I have gained experience working with companies like [Kreekarvat Technologies](https://www.kreekarvat.in), [Billmaxo Solutions](https://billmaxo.com), and have completed internships at [AJIMS](https://ajims.edu.in/Webpages/Index.aspx). 
 
-I'm always eager to learn and grow, and I thrive in collaborative environments. If you're interested in collaborating on impactful tech initiatives or learning more about my work, feel free to connect or explore my now give git commit [projects](https://github.com/gaureshpai?tab=repositories).
+I enjoy connecting with like-minded individuals, collaborating on exciting projects, and building innovative solutions. Feel free to explore my work and connect!
 
 ---
 
