@@ -5,7 +5,7 @@
 [![patreon](https://img.shields.io/badge/Patreon-gaureshpai-green?logo=patreon)](https://patreon.com/gaureshpai)
 [![leetcode](https://img.shields.io/badge/LeetCode-gaureshpai-yellow?logo=leetcode)](https://leetcode.com/u/gaureshpai)
 
-I'm a **Software Engineer** passionate about building web-based solutions with **TypeScript**, **React**, **Next.js**, and **Tailwind CSS**. Currently, I'm working as a **Software Engineer Intern at [Brink AI Labs](https://trybrink.com/)**.
+I'm a **Software Engineer** passionate about building web-based solutions with **TypeScript**, **React**, **Next.js**, and **Tailwind CSS**. Currently, I'm working at **[Brink AI Labs](https://trybrink.com/)**.
 
 I'm a **UiPath Student Developer Champion (2025–26)** and a core community member at **DevNation** & **[DK24](https://dk24.org)**, where I help connect tech communities and drive innovation.
 
