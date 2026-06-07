@@ -11,7 +11,7 @@ I'm a former [UiPath Student Developer Champion (2025–26)](https://www.linkedi
 
 I've worked with [Billmaxo Solutions](https://billmaxo.com) and [Kreekarvat Technologies](https://www.kreekarvat.in), interned at [AJIMS](https://ajims.edu.in/Webpages/Index.aspx), and led a [UDAL DC Fellowship 2025](https://www.linkedin.com/posts/gaureshpai_udal2025-dcfellow-innovation-ugcPost-7402369144433635328-Tkr-/) team.
 
-I was part of the winning teams at the [AINNOVATION 2025 Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7401507922889150466/) organized by Microsoft and Kyndryl, and the [Cardano Hackathon Asia 2025 – IBW Edition](https://www.linkedin.com/feed/update/urn:li:activity:7376945596563116032/).
+I was part of the winning teams at the [AINNOVATION 2025 Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7376945596563116032/) organized by Microsoft and Kyndryl, and the [Cardano Hackathon Asia 2025 – IBW Edition](https://www.linkedin.com/feed/update/urn:li:activity:7401507922889150466/).
 
 
 I've also contributed to the open source [Universal Commerce Protocol (UCP)](https://github.com/Universal-Commerce-Protocol/ucp/commits/main/?author=gaureshpai) & [ElevenLabs Agents SDK](https://github.com/elevenlabs/packages/commits/main/?author=gaureshpai) repository.
