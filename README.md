@@ -20,4 +20,4 @@ I love collaborating with like-minded builders on exciting projects. Feel free t
 
 ---
 
-📄 [Download My Resume](https://raw.githubusercontent.com/gaureshpai/hseruag/b439fff5a2f5fc1e0900a206aa45610ed39e832d/public/Gauresh_G_Pai.pdf)
+📄 [Download My Resume](./Gauresh_G_Pai.pdf)
