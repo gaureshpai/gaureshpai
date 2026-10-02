@@ -5,7 +5,7 @@
 [![patreon](https://img.shields.io/badge/Patreon-gaureshpai-green?logo=patreon)](https://patreon.com/gaureshpai)
 [![leetcode](https://img.shields.io/badge/LeetCode-gaureshpai-yellow?logo=leetcode)](https://leetcode.com/u/gaureshpai)
 
-I’m a **Product Engineer at [Metaforms AI](https://metaforms.ai/)** and an active community contributor at [**DK24**](https://dk24.org/), where I help connect tech communities and drive innovation.
+I’m a **Product Engineer at [Metaforms](https://metaforms.ai/)** and an active community contributor at [**DK24**](https://dk24.org/), where I help connect tech communities and drive innovation.
 
 I previously worked as a **Software Engineer at [Brink AI Labs](https://trybrink.com/)** and am a former [UiPath Student Developer Champion (2025–26)](https://www.linkedin.com/posts/uipath-community_automation-futureofwork-uipathcommunity-activity-7309891806182227968-ssKi/). I also previously contributed to [DevNation](https://github.com/Ajiet-DevNation).
 
